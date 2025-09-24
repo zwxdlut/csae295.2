@@ -1,5 +1,5 @@
-# Jt808
-JT/T 808 1078 protocol implemention. 
+# CSAE295.2
+CSAE295.2 protocol implemention. 
 
 ## Author
 * Wenxing Zhang zwxdlut@163.com
